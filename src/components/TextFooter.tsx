@@ -22,7 +22,6 @@ export default function TextFooter() {
       >
         pour réveler <br /> <span className="text-gray-400">la surprise</span>
       </h1>
-      </p>
     </>
   );
 }
